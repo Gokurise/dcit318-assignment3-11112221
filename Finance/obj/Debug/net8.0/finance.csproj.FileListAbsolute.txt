@@ -1,0 +1,14 @@
+C:\Users\willi\dcit318-assignment3-11112221\finance\bin\Debug\net8.0\finance.exe
+C:\Users\willi\dcit318-assignment3-11112221\finance\bin\Debug\net8.0\finance.deps.json
+C:\Users\willi\dcit318-assignment3-11112221\finance\bin\Debug\net8.0\finance.runtimeconfig.json
+C:\Users\willi\dcit318-assignment3-11112221\finance\bin\Debug\net8.0\finance.dll
+C:\Users\willi\dcit318-assignment3-11112221\finance\bin\Debug\net8.0\finance.pdb
+C:\Users\willi\dcit318-assignment3-11112221\finance\obj\Debug\net8.0\finance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\dcit318-assignment3-11112221\finance\obj\Debug\net8.0\finance.AssemblyInfoInputs.cache
+C:\Users\willi\dcit318-assignment3-11112221\finance\obj\Debug\net8.0\finance.AssemblyInfo.cs
+C:\Users\willi\dcit318-assignment3-11112221\finance\obj\Debug\net8.0\finance.csproj.CoreCompileInputs.cache
+C:\Users\willi\dcit318-assignment3-11112221\finance\obj\Debug\net8.0\finance.dll
+C:\Users\willi\dcit318-assignment3-11112221\finance\obj\Debug\net8.0\refint\finance.dll
+C:\Users\willi\dcit318-assignment3-11112221\finance\obj\Debug\net8.0\finance.pdb
+C:\Users\willi\dcit318-assignment3-11112221\finance\obj\Debug\net8.0\finance.genruntimeconfig.cache
+C:\Users\willi\dcit318-assignment3-11112221\finance\obj\Debug\net8.0\ref\finance.dll
