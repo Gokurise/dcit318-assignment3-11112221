@@ -1,0 +1,14 @@
+C:\Users\willi\dcit318-assignment3-11112221\Healthcare\bin\Debug\net8.0\Healthcare.exe
+C:\Users\willi\dcit318-assignment3-11112221\Healthcare\bin\Debug\net8.0\Healthcare.deps.json
+C:\Users\willi\dcit318-assignment3-11112221\Healthcare\bin\Debug\net8.0\Healthcare.runtimeconfig.json
+C:\Users\willi\dcit318-assignment3-11112221\Healthcare\bin\Debug\net8.0\Healthcare.dll
+C:\Users\willi\dcit318-assignment3-11112221\Healthcare\bin\Debug\net8.0\Healthcare.pdb
+C:\Users\willi\dcit318-assignment3-11112221\Healthcare\obj\Debug\net8.0\Healthcare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\dcit318-assignment3-11112221\Healthcare\obj\Debug\net8.0\Healthcare.AssemblyInfoInputs.cache
+C:\Users\willi\dcit318-assignment3-11112221\Healthcare\obj\Debug\net8.0\Healthcare.AssemblyInfo.cs
+C:\Users\willi\dcit318-assignment3-11112221\Healthcare\obj\Debug\net8.0\Healthcare.csproj.CoreCompileInputs.cache
+C:\Users\willi\dcit318-assignment3-11112221\Healthcare\obj\Debug\net8.0\Healthcare.dll
+C:\Users\willi\dcit318-assignment3-11112221\Healthcare\obj\Debug\net8.0\refint\Healthcare.dll
+C:\Users\willi\dcit318-assignment3-11112221\Healthcare\obj\Debug\net8.0\Healthcare.pdb
+C:\Users\willi\dcit318-assignment3-11112221\Healthcare\obj\Debug\net8.0\Healthcare.genruntimeconfig.cache
+C:\Users\willi\dcit318-assignment3-11112221\Healthcare\obj\Debug\net8.0\ref\Healthcare.dll
