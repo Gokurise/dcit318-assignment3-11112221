@@ -1,0 +1,14 @@
+C:\Users\willi\dcit318-assignment3-11112221\Warehouse\bin\Debug\net8.0\Warehouse.exe
+C:\Users\willi\dcit318-assignment3-11112221\Warehouse\bin\Debug\net8.0\Warehouse.deps.json
+C:\Users\willi\dcit318-assignment3-11112221\Warehouse\bin\Debug\net8.0\Warehouse.runtimeconfig.json
+C:\Users\willi\dcit318-assignment3-11112221\Warehouse\bin\Debug\net8.0\Warehouse.dll
+C:\Users\willi\dcit318-assignment3-11112221\Warehouse\bin\Debug\net8.0\Warehouse.pdb
+C:\Users\willi\dcit318-assignment3-11112221\Warehouse\obj\Debug\net8.0\Warehouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\dcit318-assignment3-11112221\Warehouse\obj\Debug\net8.0\Warehouse.AssemblyInfoInputs.cache
+C:\Users\willi\dcit318-assignment3-11112221\Warehouse\obj\Debug\net8.0\Warehouse.AssemblyInfo.cs
+C:\Users\willi\dcit318-assignment3-11112221\Warehouse\obj\Debug\net8.0\Warehouse.csproj.CoreCompileInputs.cache
+C:\Users\willi\dcit318-assignment3-11112221\Warehouse\obj\Debug\net8.0\Warehouse.dll
+C:\Users\willi\dcit318-assignment3-11112221\Warehouse\obj\Debug\net8.0\refint\Warehouse.dll
+C:\Users\willi\dcit318-assignment3-11112221\Warehouse\obj\Debug\net8.0\Warehouse.pdb
+C:\Users\willi\dcit318-assignment3-11112221\Warehouse\obj\Debug\net8.0\Warehouse.genruntimeconfig.cache
+C:\Users\willi\dcit318-assignment3-11112221\Warehouse\obj\Debug\net8.0\ref\Warehouse.dll
