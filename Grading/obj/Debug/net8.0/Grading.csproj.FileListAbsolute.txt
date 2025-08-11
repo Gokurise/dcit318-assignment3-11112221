@@ -1,0 +1,14 @@
+C:\Users\willi\dcit318-assignment3-11112221\Grading\bin\Debug\net8.0\Grading.exe
+C:\Users\willi\dcit318-assignment3-11112221\Grading\bin\Debug\net8.0\Grading.deps.json
+C:\Users\willi\dcit318-assignment3-11112221\Grading\bin\Debug\net8.0\Grading.runtimeconfig.json
+C:\Users\willi\dcit318-assignment3-11112221\Grading\bin\Debug\net8.0\Grading.dll
+C:\Users\willi\dcit318-assignment3-11112221\Grading\bin\Debug\net8.0\Grading.pdb
+C:\Users\willi\dcit318-assignment3-11112221\Grading\obj\Debug\net8.0\Grading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\dcit318-assignment3-11112221\Grading\obj\Debug\net8.0\Grading.AssemblyInfoInputs.cache
+C:\Users\willi\dcit318-assignment3-11112221\Grading\obj\Debug\net8.0\Grading.AssemblyInfo.cs
+C:\Users\willi\dcit318-assignment3-11112221\Grading\obj\Debug\net8.0\Grading.csproj.CoreCompileInputs.cache
+C:\Users\willi\dcit318-assignment3-11112221\Grading\obj\Debug\net8.0\Grading.dll
+C:\Users\willi\dcit318-assignment3-11112221\Grading\obj\Debug\net8.0\refint\Grading.dll
+C:\Users\willi\dcit318-assignment3-11112221\Grading\obj\Debug\net8.0\Grading.pdb
+C:\Users\willi\dcit318-assignment3-11112221\Grading\obj\Debug\net8.0\Grading.genruntimeconfig.cache
+C:\Users\willi\dcit318-assignment3-11112221\Grading\obj\Debug\net8.0\ref\Grading.dll
